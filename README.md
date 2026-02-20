@@ -6,7 +6,7 @@ This project is made as a beginner practice project to improve logic building us
 
 ---
 
-###📌 What This Program Does:
+##📌 What This Program Does:
 
 The user enters a password → the program checks different security rules → returns a strength level.
 
@@ -31,7 +31,7 @@ Each satisfied rule increases the strength score.
 
 ---
 
-##▶️ How to Run the Program:
+###▶️ How to Run the Program:
 
 1. Install Python (3.x)
 2. Download or clone this repository
@@ -42,7 +42,7 @@ python password_strength_checker.py
 
 ---
 
-##💻 Example Output:
+###💻 Example Output:
 
 Enter your password: Hello123
 

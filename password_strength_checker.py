@@ -1,3 +1,4 @@
+#python based password strength checker:
 def check_password_strength(password):
     score = 0
 
@@ -33,3 +34,4 @@ score = check_password_strength(password)
 result = show_result(score)
 
 print("\npassword strength:",result)
+

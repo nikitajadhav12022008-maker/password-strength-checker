@@ -1,4 +1,4 @@
-#python based password strength checker:
+#Python based password strength checker:
 def check_password_strength(password):
     score = 0
 #length check
@@ -17,8 +17,8 @@ digit check
     special_chars = "!@#$%^&*()-_+=<>?/|"
     if any(char in special_chars for char in password):
         score += 1
-
     return score
+#defining function for show result
 def show_result(score):
     if score <= 2:
         return "weak"
@@ -28,11 +28,12 @@ def show_result(score):
         return "strong"
  #main program   
 print("=========password strength checker==============")
+#input password
 password = input("enter your password:")
-
 score = check_password_strength(password)
 result = show_result(score)
-
+#final step for printing password strength
 print("\npassword strength:",result)
+
 
 

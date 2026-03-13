@@ -1,10 +1,10 @@
-##🔒 Password Strength Checker:
+## 🔒 Password Strength Checker:
 
 A simple Python command-line tool that analyzes a password and tells how strong it is.
 This project is made as a beginner practice project to improve logic building using conditions, loops and string handling.
 ---
 
-##📌 What This Program Does:
+## 📌 What This Program Does:
 
 The user enters a password → the program checks different security rules → returns a strength level.
 The password is classified as:
@@ -13,7 +13,7 @@ Medium
 Strong 
 ---
 
-##🧠 Rules Used to Check Password:
+## 🧠 Rules Used to Check Password:
 
 -Rule| Requirement
 -Length| At least 8 characters
@@ -24,7 +24,7 @@ Lowercase| Contains a-z
 Each satisfied rule increases the strength score.
 ---
 
-###▶️ How to Run the Program:
+## #▶️ How to Run the Program:
 
 1. Install Python (3.x)
 2. Download or clone this repository
@@ -34,12 +34,12 @@ Each satisfied rule increases the strength score.
 python password_strength_checker.py
 ---
 
-###💻 Example Output:
+### 💻 Example Output:
 Enter your password: Hello123
 Password Strength: Medium 
 ---
 
-##🧩 Concepts Practiced:
+## 🧩 Concepts Practiced:
 - Functions
 - Conditional statements (if-elif-else)
 - Loops
@@ -47,11 +47,11 @@ Password Strength: Medium
 - Boolean logic
 ---
 
-##🎯 Purpose of This Project:
+## 🎯 Purpose of This Project:
 This project was created to practice Python fundamentals and understand how real applications validate user input.
 ---
 
-##👩‍💻 Author:
+## 👩‍💻 Author:
 Nikita Jadhav
 Beginner Python Developer 🚀
 ---

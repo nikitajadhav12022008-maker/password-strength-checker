@@ -1,7 +1,8 @@
 ## 🔒 Password Strength Checker:
 
 A simple Python command-line tool that analyzes a password and tells how strong it is.
-This project is made as a beginner practice project to improve logic building using conditions, loops and string handling.
+This project is made as a beginner practice project to improve logic building using conditions, loops and string handling.\
+
 ---
 
 ## 📌 What This Program Does:
@@ -11,6 +12,7 @@ The password is classified as:
 Weak 
 Medium 
 Strong 
+
 ---
 
 ## 🧠 Rules Used to Check Password:
@@ -22,6 +24,7 @@ Lowercase| Contains a-z
 -Number| Contains 0-9
 -Special Character| Contains symbols (!@#$%^&*)
 Each satisfied rule increases the strength score.
+
 ---
 
 ## #▶️ How to Run the Program:
@@ -32,11 +35,13 @@ Each satisfied rule increases the strength score.
 4. Run:
 ```bash
 python password_strength_checker.py
+
 ---
 
 ### 💻 Example Output:
 Enter your password: Hello123
-Password Strength: Medium 
+Password Strength: Medium
+
 ---
 
 ## 🧩 Concepts Practiced:
@@ -45,14 +50,17 @@ Password Strength: Medium
 - Loops
 - String methods
 - Boolean logic
+
 ---
 
 ## 🎯 Purpose of This Project:
 This project was created to practice Python fundamentals and understand how real applications validate user input.
+
 ---
 
 ## 👩‍💻 Author:
 Nikita Jadhav
 Beginner Python Developer 🚀
+
 ---
 ⭐ If you liked this project, feel free to star the repository!

@@ -44,7 +44,7 @@ This project is made as a beginner practice project to improve logic building us
 
 ---
 
-## #▶️ How to Run the Program:
+## ▶️ How to Run the Program:
 
 1. Install Python (3.x)
 2. Download or clone this repository
@@ -56,10 +56,8 @@ python password_strength_checker.py
 ---
 
 
-
-
-
 ## 🎯 Purpose of This Project:
+
 This project was created to practice Python fundamentals and understand how real applications validate user input.
 
 ---

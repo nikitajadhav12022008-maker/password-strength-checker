@@ -27,6 +27,13 @@ This project is made as a beginner practice project to improve logic building us
 
 ---
 
+### 💻 Example Output:
+
+- Enter your password: Hello123
+- Password Strength: Medium
+
+---
+
 ## #▶️ How to Run the Program:
 
 1. Install Python (3.x)
@@ -38,11 +45,7 @@ python password_strength_checker.py
 
 ---
 
-### 💻 Example Output:
-Enter your password: Hello123
-Password Strength: Medium
 
----
 
 ## 🧩 Concepts Practiced:
 - Functions

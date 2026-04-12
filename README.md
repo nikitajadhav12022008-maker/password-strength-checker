@@ -7,11 +7,11 @@ This project is made as a beginner practice project to improve logic building us
 
 ## 📌 What This Program Does:
 
-The user enters a password → the program checks different security rules → returns a strength level.
-The password is classified as:
-Weak 
-Medium 
-Strong 
+- The user enters a password → the program checks different security rules → returns a strength level.
+- The password is classified as:
+- Weak 
+- Medium 
+- Strong 
 
 ---
 

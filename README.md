@@ -34,6 +34,16 @@ This project is made as a beginner practice project to improve logic building us
 
 ---
 
+## 🧩 Concepts Practiced:
+
+- Functions
+- Conditional statements (if-elif-else)
+- Loops
+- String methods
+- Boolean logic
+
+---
+
 ## #▶️ How to Run the Program:
 
 1. Install Python (3.x)
@@ -47,14 +57,7 @@ python password_strength_checker.py
 
 
 
-## 🧩 Concepts Practiced:
-- Functions
-- Conditional statements (if-elif-else)
-- Loops
-- String methods
-- Boolean logic
 
----
 
 ## 🎯 Purpose of This Project:
 This project was created to practice Python fundamentals and understand how real applications validate user input.

@@ -17,13 +17,13 @@ This project is made as a beginner practice project to improve logic building us
 
 ## 🧠 Rules Used to Check Password:
 
--Rule| Requirement
--Length| At least 8 characters
-Uppercase| Contains A-Z
-Lowercase| Contains a-z
--Number| Contains 0-9
--Special Character| Contains symbols (!@#$%^&*)
-Each satisfied rule increases the strength score.
+- Rule| Requirement
+- Length| At least 8 characters
+- Uppercase| Contains A-Z
+- Lowercase| Contains a-z
+- Number| Contains 0-9
+- Special Character| Contains symbols (!@#$%^&*)
+- Each satisfied rule increases the strength score.
 
 ---
 

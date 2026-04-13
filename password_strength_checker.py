@@ -1,4 +1,4 @@
-#Python based password strength checker:
+# Python based password strength checker:
 def check_password_strength(password):
     score = 0
 #length check

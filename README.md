@@ -44,6 +44,12 @@ This project is made as a beginner practice project to improve logic building us
 
 ---
 
+## 🎯 Purpose of This Project:
+
+This project was created to practice Python fundamentals and understand how real applications validate user input.
+
+---
+
 ## ▶️ How to Run the Program:
 
 1. Install Python (3.x)
@@ -55,12 +61,6 @@ python password_strength_checker.py
 
 ---
 
-
-## 🎯 Purpose of This Project:
-
-This project was created to practice Python fundamentals and understand how real applications validate user input.
-
----
 
 ## 👩‍💻 Author:
 Nikita Jadhav
